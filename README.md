@@ -65,14 +65,10 @@ Currently working on sentiment analysis models, interactive ML applications, and
 
 ---
 
-## 🎓 Education & Experience
+## 🎓 Education 
 
 **Bachelor's Degree in Artificial Intelligence**  
 📍 Menoufia University, Egypt | Oct 2022 - Present
-
-**Data Analysis Internship**  
-📍 National Telecommunication Institute (NTI) - Hybrid  
-Hands-on experience in data modeling, visualization, and database management using Excel, Python, SQL, Tableau, and Power BI. Transformed raw data into actionable insights for decision-making.
 
 ---
 
